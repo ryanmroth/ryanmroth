@@ -36,7 +36,7 @@ $ cat /etc/skills
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL&logoColor=white)
+![NextJS](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=Nextjs&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
