@@ -35,7 +35,7 @@ $ cat /etc/skills
 ### 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
