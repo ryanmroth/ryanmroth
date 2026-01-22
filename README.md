@@ -40,6 +40,7 @@ $ cat /etc/skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-030712?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![Kali](https://img.shields.io/badge/Kali-16171d?style=for-the-badge&logo=kalilinux&logoColor=2777ff)
