@@ -11,11 +11,12 @@ I help organizations strengthen their security posture by combining offensive se
 ### 🔬 What I Do
 
 ```
-Penetration Testing      ████████████████████  
-Malware Analysis         █████████████████░░░  
-Digital Forensics        ████████████████░░░░  
-Incident Response        ███████████████░░░░░  
-Vulnerability Research   ████████████████████  
+$ cat /etc/skills
+- Penetration Testing
+- Malware Analysis
+- Digital Forensics
+- Incident Response
+- Vulnerability Research
 ```
 
 ---
