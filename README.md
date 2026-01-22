@@ -12,8 +12,8 @@ Security researcher and pentester who speaks both exploit code and boardroom. I 
 
 ```
 $ cat /etc/skills
-- Leadership & People Development
 - Strategic Planning
+- Leadership & People Development
 - Offensive Security
 - Malware Analysis
 - Digital Forensics
