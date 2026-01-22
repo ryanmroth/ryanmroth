@@ -1,10 +1,10 @@
 # Ryan Roth
 
-**`Hacker | Researcher | Malware Analyst | Developer`**
+**`Hacker | Researcher | Malware Analyst | Developer | Designer`**
 
 Chief Architect at [Layer 8 Security](https://layer8security.com) · Greater Philadelphia
 
-I help organizations strengthen their security posture by combining offensive security expertise with deep technical knowledge. When I'm not breaking things professionally, I'm researching vulnerabilities and publishing my findings.
+Security researcher and pentester who speaks both exploit code and boardroom. I break things, then explain why it matters.
 
 ---
 
