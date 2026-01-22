@@ -44,8 +44,8 @@ $ cat /etc/skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![SublimeText](https://img.shields.io/badge/Sublime_Text-4B4B4B?style=for-the-badge&logo=ghidra&logoColor=FF9800)
-![x64dbg](https://img.shields.io/badge/x64dbg-0a0a0a?style=for-the-badge&logoColor=734cb8)
+![SublimeText](https://img.shields.io/badge/Sublime_Text-4B4B4B?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=734cb8)
 ![BloodHound](https://img.shields.io/badge/BloodHound-0a0a0a?style=for-the-badge&logoColor=734cb8)
 
