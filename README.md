@@ -38,7 +38,7 @@ $ cat /etc/skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css&logoColor=734cb8)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-0a0a0a?style=for-the-badge&logo=markdown&logoColor=734cb8)
 ![Terraform](https://img.shields.io/badge/Terraform-0a0a0a?style=for-the-badge&logo=terraform&logoColor=734cb8)
 
