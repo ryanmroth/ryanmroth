@@ -12,7 +12,9 @@ Security researcher and pentester who speaks both exploit code and boardroom. I 
 
 ```
 $ cat /etc/skills
-- Penetration Testing
+- Leadership & People Development
+- Strategic Planning
+- Offensive Security
 - Malware Analysis
 - Digital Forensics
 - Incident Response
