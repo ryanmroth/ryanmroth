@@ -41,7 +41,6 @@ $ cat /etc/skills
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-030712?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![Kali](https://img.shields.io/badge/Kali-16171d?style=for-the-badge&logo=kalilinux&logoColor=2777ff)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -49,6 +48,7 @@ $ cat /etc/skills
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![X64dbg](https://img.shields.io/badge/X64dbg-1c1c1c?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiPjwvZz48ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvZz48ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0xMiAxOUM5LjIzODU4IDE5IDcgMTYuNzYxNCA3IDE0TTEyIDE5QzE0Ljc2MTQgMTkgMTcgMTYuNzYxNCAxNyAxNE0xMiAxOVYxNE03IDE0VjExLjg1NzFDNyAxMS4wNTkyIDcgMTAuNjYwMiA3LjExMjIzIDEwLjMzOTRDNy4zMTMyNiA5Ljc2NDk1IDcuNzY0OTUgOS4zMTMyNiA4LjMzOTQ0IDkuMTEyMjNDOC42NjAxOSA5IDkuMDU5MTcgOSA5Ljg1NzE0IDlIMTQuMTQyOUMxNC45NDA4IDkgMTUuMzM5OCA5IDE1LjY2MDYgOS4xMTIyM0MxNi4yMzUxIDkuMzEzMjYgMTYuNjg2NyA5Ljc2NDk1IDE2Ljg4NzggMTAuMzM5NEMxNyAxMC42NjAyIDE3IDExLjA1OTIgMTcgMTEuODU3MVYxNE03IDE0SDRNMTcgMTRIMjBNMTcgMTBMMTkuNSA3LjVNNC41IDIwLjVMOCAxN003IDEwTDQuNSA3LjVNMTkuNSAyMC41TDE2IDE3TTE0IDZWNUMxNCAzLjg5NTQzIDEzLjEwNDYgMyAxMiAzQzEwLjg5NTQgMyAxMCAzLjg5NTQzIDEwIDVWNkgxNFoiIHN0cm9rZT0iIzRjYjRlOCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4gPC9nPjwvc3ZnPg==)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
