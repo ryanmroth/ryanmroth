@@ -56,6 +56,9 @@ $ cat /etc/skills
 ### 📝 Latest Research
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2025-10874: History Repeats - Exploiting Orbit Fox SSRF Redux](https://ryanmroth.com/articles/orbit-fox-ssrf)
+- [Secrets in Plain Sight: The Terra Dotta Incident](https://ryanmroth.com/articles/terra-dotta-incident)
+- [CVE-2024-50960: Exploiting Extron SMP Command Injection](https://ryanmroth.com/articles/exploiting-extron-smp-command-injection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
