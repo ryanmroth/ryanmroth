@@ -42,8 +42,7 @@ $ cat /etc/skills
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visual%20studio%20code&logoColor=734cb8)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=734cb8)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge&logo=burpsuite&logoColor=734cb8)
 ![Ghidra](https://img.shields.io/badge/Ghidra-0a0a0a?style=for-the-badge&logo=ghidra&logoColor=734cb8)
 ![x64dbg](https://img.shields.io/badge/x64dbg-0a0a0a?style=for-the-badge&logoColor=734cb8)
