@@ -42,7 +42,7 @@ $ cat /etc/skills
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Kali](https://img.shields.io/badge/Kali-16171d?style=for-the-badge&logo=kalilinux&logoColor=FCC624)
+![Kali](https://img.shields.io/badge/Kali-16171d?style=for-the-badge&logo=kalilinux&logoColor=2777ff)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/Sublime_Text-4B4B4B?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
