@@ -46,7 +46,7 @@ $ cat /etc/skills
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/Sublime_Text-4B4B4B?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=734cb8)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-0a0a0a?style=for-the-badge&logoColor=734cb8)
 
 ---
