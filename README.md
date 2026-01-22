@@ -41,13 +41,13 @@ $ cat /etc/skills
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css&logoColor=734cb8)
 ![Markdown](https://img.shields.io/badge/Markdown-0a0a0a?style=for-the-badge&logo=markdown&logoColor=734cb8)
 
-![Kali](https://img.shields.io/badge/Kali-000?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=flat-square&logo=burpsuite&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-000?style=flat-square&logo=ghidra&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-0078D4?style=flat-square&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=flat-square&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=734cb8)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge&logo=burpsuite&logoColor=734cb8)
+![Ghidra](https://img.shields.io/badge/Ghidra-0a0a0a?style=for-the-badge&logo=ghidra&logoColor=734cb8)
+![x64dbg](https://img.shields.io/badge/x64dbg-0a0a0a?style=for-the-badge&logoColor=734cb8)
+![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=734cb8)
+![Terraform](https://img.shields.io/badge/Terraform-0a0a0a?style=for-the-badge&logo=terraform&logoColor=734cb8)
+![BloodHound](https://img.shields.io/badge/BloodHound-0a0a0a?style=for-the-badge&logoColor=734cb8)
 
 ---
 
@@ -70,4 +70,4 @@ $ cat /etc/skills
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryanmroth&color=000000&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ryanmroth&color=000000&style=for-the-badge)
