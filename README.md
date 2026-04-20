@@ -13,7 +13,7 @@ Security researcher and pentester who speaks both exploit code and boardroom. I 
 [![Website](https://img.shields.io/badge/ryanmroth.com-0a0a0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwNS45OSwxMTIuMzdsMTM0LjM4LDE0Mi40MmMyMS45MSwyMi45NSwyMS45MSw2MC41NiwwLDgzLjc1TDIzLjcsNTY3Ljc4QzguMDUsNTg0LjM0LDAsNjA0LjY5LDAsNjI4LjM1djMwOS45MkMwLDk3My41MSwxOS4wMSwxMDAzLjc5LDQ5Ljg2LDEwMTcuMjhjMzAuODYsMTMuNDgsNjQuNjIsNi4zOSw4OC4zMi0xOC42OSwyMDIuMTMtMjEzLjg3LDQwNC4yNi00MjcuNzMsNjA2LjE3LTY0MS42LDMxLjUzLTMzLjEyLDMxLjUzLTg3LjUzLDAtMTIwLjg5TDU0NS4xMywyNS4wOGMtMTUuODgtMTYuNTYtMzUuMTAtMjUuMDgtNTcuMjQtMjUuMDhIMTQ5LjgxYy0yNS43MSwwLTQ3LjYzLDE1LjYxLTU3LjQ2LDQwLjY5LTkuODQsMjUuMDgtNC43LDUyLjUyLDEzLjY0LDcxLjY4aDBaTTQ4NS42Myw3MjkuMmwtMTQxLjE0LDE0Ny43NmMtMjQuMTcsMjUuMDItMzEuMDEsNjEuMDEtMTguMDEsOTMuOSwxMywzMi44OSw0Mi4xOCw1My4xNCw3Ni4xNiw1My4xNGgyODIuNTFjMzQuMiwwLDYzLjE2LTIwLjI2LDc2LjM4LTUzLjE0LDEzLTMyLjg5LDYuMTYtNjguODctMTguMDEtOTMuOWwtMTQxLjE0LTE0Ny43NmMtMzIuMTUtMzMuNi04NC41OS0zMy42LTExNi43NCwwaDBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPgo=)](https://ryanmroth.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/rothryan)
 [![X](https://img.shields.io/badge/@f1rstm4tter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/f1rstm4tter)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/f1rstm4tter)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/f1rstm4tter)
 
 ---
 
