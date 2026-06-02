@@ -63,6 +63,7 @@ $ cat /etc/skills
 ### 📝 Latest Research
 
 <!-- BLOG-POST-LIST:START -->
+- [Vaultek ViSN: From Password Reset to Physical Safe Access](https://ryanmroth.com/articles/vaultek-visn-reset-to-safe-access)
 - [Earning the PMRP: From Offense to Malware Analysis](https://ryanmroth.com/articles/earning-the-pmrp)
 - [CVE-2025-10874: History Repeats - Exploiting Orbit Fox SSRF Redux](https://ryanmroth.com/articles/orbit-fox-ssrf)
 - [Secrets in Plain Sight: The Terra Dotta Incident](https://ryanmroth.com/articles/terra-dotta-incident)
